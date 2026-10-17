@@ -104,24 +104,24 @@
 
 ###
 
-<div align="center">
 
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/vonhotz/vonhotz/output/bomberman-contribution-graph-dark.svg"
+      srcset="https://raw.githubusercontent.com/vanhotz/vanhotz/output/bomberman-contribution-graph-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/vonhotz/vonhotz/output/bomberman-contribution-graph.svg"
+      srcset="https://raw.githubusercontent.com/vanhotz/vanhotz/output/bomberman-contribution-graph.svg"
     />
     <img
       alt="Bomberman contribution graph"
-      src="https://raw.githubusercontent.com/vonhotz/vonhotz/output/bomberman-contribution-graph.svg"
+      src="https://raw.githubusercontent.com/vanhotz/vanhotz/output/bomberman-contribution-graph.svg"
       width="100%"
     />
   </picture>
-
 </div>
+
 
 
